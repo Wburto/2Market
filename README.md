@@ -1,7 +1,5 @@
 # 2Market - 89% Final Grade 
 
-Presentation: https://youtu.be/-0Ojgvuysc8
-
 Project Summary: In a fictional situation I helped 2Market, a leading international supermarket chain, leverage data analytics to gain deeper customer understanding to boost sales. By analysing consumer datasets, I uncovered valuable insights into customer behaviour, sales trends, and advertising effectiveness.
 
 Analytical Approach Highlights:
@@ -19,3 +17,5 @@ Key Insights and Recommendations:
 - Revealed liquor and meat as top global product categories, suggesting intensified marketing efforts for these segments.
 
 Professional Development and Impact: This project showcased my ability to manage large datasets, translate complex data into business insights, and deliver strategic recommendations.In particular I felt an extensive use of SQL played a central role in uncovering critical customer insights, guiding the supermarket chain toward strategic sales enhancements. 
+
+Presentation: https://youtu.be/-0Ojgvuysc8 
