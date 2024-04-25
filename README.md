@@ -19,3 +19,4 @@ Key Insights and Recommendations:
 Professional Development and Impact: This project showcased my ability to manage large datasets, translate complex data into business insights, and deliver strategic recommendations.In particular I felt an extensive use of SQL played a central role in uncovering critical customer insights, guiding the supermarket chain toward strategic sales enhancements. 
 
 Presentation: https://youtu.be/-0Ojgvuysc8 
+Tableau: https://public.tableau.com/app/profile/will.b7404/viz/2MarketDashboard_17139867868950/DemographicsDashboard
