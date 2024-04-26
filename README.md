@@ -1,4 +1,4 @@
-# 2Market - 89% Final Grade 
+# 2Market - 88% Final Grade 
 
 Project Summary: In a fictional situation I helped 2Market, a leading international supermarket chain, leverage data analytics to gain deeper customer understanding to boost sales. By analysing consumer datasets, I uncovered valuable insights into customer behaviour, sales trends, and advertising effectiveness.
 
