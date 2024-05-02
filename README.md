@@ -16,7 +16,8 @@ Key Insights and Recommendations:
 - Proposed ad platform diversification, noting TikTok's superior revenue performance for innovative consumer engagement strategies.
 - Revealed liquor and meat as top global product categories, suggesting intensified marketing efforts for these segments.
 
-Professional Development and Impact: This project showcased my ability to manage large datasets, translate complex data into business insights, and deliver strategic recommendations.In particular I felt an extensive use of SQL played a central role in uncovering critical customer insights, guiding the supermarket chain toward strategic sales enhancements. 
+Professional Development and Impact: 
+- This project showcased my ability to manage large datasets, translate complex data into business insights, and deliver strategic recommendations.In particular I felt an extensive use of SQL played a central role in uncovering critical customer insights, guiding the supermarket chain toward strategic sales enhancements. 
 
 Presentation: https://youtu.be/-0Ojgvuysc8 
 
